@@ -1,0 +1,6 @@
+[submodule "lib/softix/cli"]
+	path = lib/softix/cli
+	url = https://github.com/wastatickets/softix-cli
+[submodule "lib/softix/core"]
+	path = lib/softix/core
+	url = https://github.com/wastatickets/softix

@@ -1,0 +1,6 @@
+# this is the default included as a part of the python build pack from heroku
+bob-builder==0.0.5
+
+# install the softix submodules
+-e lib/softix/core
+-e lib/softix/cli
